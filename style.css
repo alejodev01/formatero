@@ -1,0 +1,145 @@
+
+
+
+
+#inputNombre, #inputAutoriza, #inputMovimiento1, #inputMovimiento2{
+    width: 280px;
+    margin-right: -5%;
+}
+
+#selectRefEgreso, #selectRefIngreso{
+    width: 210px;
+}
+
+#radio, #labelDocumento {
+    margin-left: 80px;
+  }
+
+#formulario, #legalizacion{
+    background-color: aqua;
+    padding: 10px;
+    margin: auto;
+}
+
+#buttonListadoMateriales{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#marco{
+    border-style: solid;
+    font-size: smaller;
+}
+
+#titulo{
+    border-style: ridge;
+    text-align: center;
+    font-size: 11px ;
+    font-weight: bold;
+}
+#labelObservaciones, #labelRef{    
+    font-weight: bold;
+}
+
+#footer{    
+    font-weight: bold;
+    font-size: 10px;
+    border-style: ridge;
+    text-align: center;
+}
+
+#encabezado1{
+    border-style:none;
+    width: 48%;
+    float: left;
+    padding-left:2%;    
+    padding-top: 0.5%;    
+}
+
+#encabezado2{
+    border-style: none;
+    width: 52%;
+    float: right;
+    padding-top: 0.5%;
+}
+
+#divObservaciones, #divResultados{
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-top: 0.5%;
+}
+
+#selectUnidadNegocios, #inputTransito, #inputSelectIngreso, #inputSelectEgreso{
+    width: 120px;
+    height: 30px;
+}
+
+#inputDate{
+    width: 216px;
+}
+
+#labelSelect{
+    margin-right: -50px;
+    font-weight: bold;
+}
+
+#label{
+    margin-right: -30px;
+    font-weight: bold;
+}
+
+#labelTransito{
+    margin-right: -60px;
+    font-weight: bold;
+}
+
+#inputCodigo, #inputSolicitada, #inputDespachada{
+    width: 120px;
+    margin-left: 20%;
+    }
+
+#divResultados, #divRegistros{    
+    padding: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#buttonIngresar{
+    width: 100px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;    
+    }
+
+#buttonEliminar{
+    background-color: lightgray;
+}
+ 
+    table, th, td, tr{
+        border-style: double;
+        text-align: center;
+        padding: auto;
+        margin: auto;
+        align-items: center;
+        align-items: middle;
+        
+    }
+
+    #resultados{
+        border-style: double;
+    }
+
+    #buttonImprimir{
+        align-items: center;
+        margin-left: 25%;
+        margin-top: 7%;
+    }
+    
+
+   
+
